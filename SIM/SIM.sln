@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SIM", "SIM.vcxproj", "{87968D06-3C5A-448E-9241-B2B780532C98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87968D06-3C5A-448E-9241-B2B780532C98}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87968D06-3C5A-448E-9241-B2B780532C98}.Debug|Win32.Build.0 = Debug|Win32
+		{87968D06-3C5A-448E-9241-B2B780532C98}.Release|Win32.ActiveCfg = Release|Win32
+		{87968D06-3C5A-448E-9241-B2B780532C98}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
