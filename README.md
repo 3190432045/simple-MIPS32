@@ -1,6 +1,6 @@
 #  simple-MIPS32
 `Simple MIPS32 Simulator`  
-A very basic MIPS32 simulator with limited set of instructions and should read MIPS machine code.
+A very basic MIPS32 simulator with a limited set of instructions and reads MIPS machine code.
 
 List of implemented instructions:  
 `ADDI, ADD, SUB, AND, OR, XOR, NOR, LW, SW, J, JR, BEQ, BNE, SLT, SLLV, SRLV`  
