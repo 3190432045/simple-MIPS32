@@ -16,9 +16,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none;mso-border-top-alt:solid black 1.0pt;
- mso-border-bottom-alt:solid black 1.0pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt'>
+ style='margin-left:5.4pt;border-collapse:collapse;border:none;mso-border-top-alt:
+ solid black 1.0pt;mso-border-bottom-alt:solid black 1.0pt;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=82 rowspan=2 style='width:61.4pt;border-top:solid windowtext 1.5pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -36,7 +36,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><b><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>Instruction format<o:p></o:p></span></b></p>
   </td>
-  <td width=141 style='width:106.05pt;border-top:solid windowtext 1.5pt;
+  <td width=250 style='width:187.75pt;border-top:solid windowtext 1.5pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext 1.5pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
@@ -95,7 +95,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
   style='color:black;mso-fareast-language:ZH-CN'>5~0<o:p></o:p></span></b></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -172,7 +172,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'>(6)<o:p></o:p></span></b></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -246,7 +246,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100000</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -327,7 +327,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100010</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -407,7 +407,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100100</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -488,7 +488,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100101</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -568,7 +568,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100110</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -649,7 +649,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themeshade:191'>100111</span><span lang=EN-US style='color:black;
   mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -719,7 +719,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
   mso-themeshade:191'>001000<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -797,7 +797,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
   mso-themeshade:191'>101010<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -880,7 +880,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
   mso-themeshade:191'>000100<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -958,7 +958,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
   mso-themeshade:191'>000110<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1022,7 +1022,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
   style='color:black;mso-fareast-language:ZH-CN'>address/immediate(16)<o:p></o:p></span></b></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1079,7 +1079,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>immediate<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1137,7 +1137,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>offset<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1197,7 +1197,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>offset<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1257,7 +1257,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>offset<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1316,7 +1316,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><span lang=EN-US style='color:black;mso-fareast-language:
   ZH-CN'>offset<o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1359,7 +1359,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   text-align:center'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
   style='color:black;mso-fareast-language:ZH-CN'>address(26)<o:p></o:p></span></b></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.0pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1398,7 +1398,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-themecolor:text1;mso-themeshade:191'>instr_index</span></span><span
   lang=EN-US style='color:black;mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
   </td>
-  <td width=141 style='width:106.05pt;border:none;border-bottom:solid windowtext 1.5pt;
+  <td width=250 style='width:187.75pt;border:none;border-bottom:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
