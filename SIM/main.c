@@ -154,7 +154,7 @@ PC_MUX & PC Address Adder
 3. relative branch : PC_new + offset << 2
 4. page addressing
 
-pc_src£º
+pc_src
 0   pc_new
 1   imm
 2   jaddr
@@ -176,7 +176,8 @@ pc_jmp
             if(pc_src == 1)
                 pc = (pc + 4) + (imm << 2);
             else if(pc_src == 2)
-                pc = (pc + 4) & 0xf000000 | ((jaddr << 2) & 0x0ffffffc);
+        //        pc = (pc + 4) & 0x0f000000 | ((jaddr << 2) & 0x0ffffffc);
+				pc = pc & 0xf0000000 | ((jaddr << 2) & 0x0ffffffc);
             else if(pc_src == 3)
                 pc = reg_r(rs);
         }
