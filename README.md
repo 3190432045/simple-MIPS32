@@ -1,9 +1,9 @@
 #  simple-MIPS32
-`Simple MIPS32 Simulator`  
+`Simple MIPS32 Simulator`
 A very basic MIPS32 simulator with a limited set of instructions and reads MIPS machine code.
 
-List of implemented instructions:  
-`ADDI, ADD, SUB, AND, OR, XOR, NOR, LW, SW, J, JR, BEQ, BNE, SLT, SLLV, SRLV`  
+List of implemented instructions:
+`ADDI, ADD, SUB, AND, OR, XOR, NOR, LW, SW, J, JR, BEQ, BNE, SLT, SLLV, SRLV`
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -1322,7 +1322,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
-  mso-themeshade:191;mso-fareast-language:ZH-CN'>Branch on Equal<o:p></o:p></span></p>
+  mso-themeshade:191;mso-fareast-language:ZH-CN'>Branch on Not Equal<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center'><span lang=EN-US style='color:black;mso-themecolor:text1;
   mso-themeshade:191;mso-fareast-language:ZH-CN'>if <span class=SpellE>rs</span>
@@ -1420,15 +1420,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 </html>
 
 # Usage
-Some debugging-related features have been integrated into the simulator.  
-Type the following command in the CMD:  
+Some debugging-related features have been integrated into the simulator.
+Type the following command in the CMD:
 `SIM /?`
 
-Type the following command to enable verbose mode, memory view, register view and redirect the standard output stream to a log file LOG.TXT:  
-`SIM example1.bin /M /R /V > LOG.TXT`  
+Type the following command to enable verbose mode, memory view, register view and redirect the standard output stream to a log file LOG.TXT:
+`SIM example1.bin /M /R /V > LOG.TXT`
 
 # Limitations
 Currently no assembler.
 
 # License
-None.  
+None.
